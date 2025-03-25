@@ -1,0 +1,15 @@
+C:\Users\nader\Csharp\LibraryManagement\bin\Debug\net8.0\LibraryManagement.exe
+C:\Users\nader\Csharp\LibraryManagement\bin\Debug\net8.0\LibraryManagement.deps.json
+C:\Users\nader\Csharp\LibraryManagement\bin\Debug\net8.0\LibraryManagement.runtimeconfig.json
+C:\Users\nader\Csharp\LibraryManagement\bin\Debug\net8.0\LibraryManagement.dll
+C:\Users\nader\Csharp\LibraryManagement\bin\Debug\net8.0\LibraryManagement.pdb
+C:\Users\nader\Csharp\LibraryManagement\obj\Debug\net8.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nader\Csharp\LibraryManagement\obj\Debug\net8.0\LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\nader\Csharp\LibraryManagement\obj\Debug\net8.0\LibraryManagement.AssemblyInfo.cs
+C:\Users\nader\Csharp\LibraryManagement\obj\Debug\net8.0\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\nader\Csharp\LibraryManagement\obj\Debug\net8.0\LibraryManagement.sourcelink.json
+C:\Users\nader\Csharp\LibraryManagement\obj\Debug\net8.0\LibraryManagement.dll
+C:\Users\nader\Csharp\LibraryManagement\obj\Debug\net8.0\refint\LibraryManagement.dll
+C:\Users\nader\Csharp\LibraryManagement\obj\Debug\net8.0\LibraryManagement.pdb
+C:\Users\nader\Csharp\LibraryManagement\obj\Debug\net8.0\LibraryManagement.genruntimeconfig.cache
+C:\Users\nader\Csharp\LibraryManagement\obj\Debug\net8.0\ref\LibraryManagement.dll
